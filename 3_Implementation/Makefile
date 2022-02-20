@@ -1,4 +1,3 @@
-
 PROJ_NAME = main
 
 SRC = src/add_contact.c\
@@ -57,4 +56,4 @@ clean:
 	$(RM) *.$(EXEC)
 	$(RM) *.gcda
 	$(RM) *.gcno
-	$(RM) *.c.gcov
+	$(RM) *.c.gcovm
